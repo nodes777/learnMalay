@@ -97,7 +97,7 @@
 	},
 	{
 		"en": "zero",
-		"ml":"ksong"
+		"ml":"k0song"
 	},
 	{
 		"en": "one",
@@ -217,7 +217,7 @@
 	},
 	{
 		"en": "cost",
-		"ml":"beharga"
+		"ml":"berharga"
 	},
 	{
 		"en": "Where's the",
@@ -242,6 +242,46 @@
 	{
 		"en": "want",
 		"ml":"hendak"
+	},
+	{
+		"en": "how much is this",
+		"ml":"berapa harganya ini"
+	},
+	{
+		"en": "without meat",
+		"ml":"tanpa daging"
+	},
+	{
+		"en": "without",
+		"ml":"tanpa"
+	},
+	{
+		"en": "with",
+		"ml":"dengan"
+	},
+	{
+		"en": "where",
+		"ml":"di mana"
+	},
+	{
+		"en": "what",
+		"ml":"apa"
+	},
+	{
+		"en": "what is it",
+		"ml":"apa itu"
+	},
+	{
+		"en": "what is it",
+		"ml":"apa itu"
+	},
+	{
+		"en": "price",
+		"ml":"harganya"
+	},
+	{
+		"en": "how much is it",
+		"ml":"berapa banyaknya"
 	}
 ]
 

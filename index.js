@@ -10,7 +10,7 @@ process.stdin.setEncoding('utf8');
 process.stdin.on('data', function (text) {
 
 	if (compare(correctWord, text)) {
-		console.log("Hooray! \n Try another one! \n");
+		console.log("--Hooray!--\n--Try another one!--\n");
 		startNewRound();
 		// if the guess is correct, return, don't continue this function
 		return;
@@ -36,6 +36,7 @@ startFirstRound();
 function startFirstRound() {
 		console.log("Welcome to learn Malay! \n");
 		console.log("Type 'quit' at any time to leave. \n");
+		console.log("Type 'help' to get the answer if you're stuck. \n");
 		startNewRound();
 }
 
